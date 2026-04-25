@@ -8,3 +8,7 @@ margin: 10% auto;
 width: 55%; 
 font-size: 3rem;
 }
+
+body {
+background-color: rgba(224, 247, 250, 0.5);
+}
