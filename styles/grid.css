@@ -1,0 +1,10 @@
+header {
+display: grid;
+grid-template-columns: 2fr 2fr;
+}
+
+table {
+margin: 10% auto;
+width: 55%; 
+font-size: 3rem;
+}
